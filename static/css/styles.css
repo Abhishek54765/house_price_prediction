@@ -1,0 +1,19 @@
+body {
+    background-color: #c3dbda;
+    text-align: center;
+    background-image: url("https://source.unsplash.com/featured/?house")
+}
+
+.navbar {
+    background-color: #333333;
+    /* display: inline-block; */
+    text-align: center;
+}
+
+a {
+    color: #f1f9f9;
+}
+
+a:hover {
+    color: #f0f0f0;
+  }
